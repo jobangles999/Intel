@@ -1,18 +1,25 @@
 {
    "markers" : [
       {
-         "pin" : "green",
-         "text" : "This is a sample marker!\nIt spans two lines of text.",
-         "x" : -104.625,
-         "y" : -0.8125,
-         "z" : -151.906
+         "pin" : "not",
+         "text" : "UIA #1 Taranis\nHyades Sector FB-N b7-6",
+         "x" : 88.4375,
+         "y" : -74.90625,
+         "z" : -122
+      },
+	        {
+         "pin" : "not",
+         "text" : "UIA #2 Leigong\nHIP 8887",
+         "x" : -66.4375,
+         "y" : -144.40625,
+         "z" : -106.28125
       },
       {
-         "pin" : "carrier",
-         "text" : "This is a sample marker too!",
-         "x" : -247.812,
-         "y" : -43.8438,
-         "z" : 64.0312
+         "pin" : "notr",
+         "text" : "UIA #3 Indra\nHIP 20567",
+         "x" : -2.8125,
+         "y" : -63.8125,
+         "z" : -162.4375
       }
    ]
 }
