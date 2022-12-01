@@ -2,21 +2,21 @@
    "markers" : [
       {
          "pin" : "not",
-         "text" : "UIA #1 Taranis\nHyades Sector FB-N b7-6",
+         "text" : "01 Taranis\nHyades Sector FB-N b7-6",
          "x" : 88.4375,
          "y" : -74.90625,
          "z" : -122
       },
 	        {
          "pin" : "not",
-         "text" : "UIA #2 Leigong\nHIP 8887",
+         "text" : "02 Leigong\nHIP 8887",
          "x" : -66.4375,
          "y" : -144.40625,
          "z" : -106.28125
       },
       {
          "pin" : "not",
-         "text" : "UIA #3 Indra\nHIP 20567",
+         "text" : "03 Indra\nHIP 20567",
          "x" : -2.8125,
          "y" : -63.8125,
          "z" : -162.4375
