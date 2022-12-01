@@ -14,6 +14,13 @@
          "y" : -144.40625,
          "z" : -106.28125
       },
+	  {
+         "pin" : "orbis",
+         "text" : "Rescue\nHIP 23716\nWakata Station",
+         "x" : -66.4375,
+         "y" : -144.40625,
+         "z" : -106.28125
+      },
       {
          "pin" : "not",
          "text" : "03 Indra\nHIP 20567",
