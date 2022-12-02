@@ -15,18 +15,34 @@
          "z" : -106.28125
       },
 	  {
+         "pin" : "not",
+         "text" : "03 Indra\nHIP 20567",
+         "x" : -2.8125,
+         "y" : -63.8125,
+         "z" : -162.4375
+      },
+	  {
+         "pin" : "carriergreen",
+         "text" : "Phills Carrier\nCuchan\nAt Main Star",
+         "x" : 95.375,
+         "y" : -72.59375,
+         "z" : -84.125
+      },
+	  {
          "pin" : "orbis",
          "text" : "Rescue\nHIP 23716\nWakata Station",
          "x" : -66.4375,
          "y" : -144.40625,
          "z" : -106.28125
       },
-      {
-         "pin" : "not",
-         "text" : "03 Indra\nHIP 20567",
-         "x" : -2.8125,
-         "y" : -63.8125,
-         "z" : -162.4375
+	  {
+         "pin" : "coriolis",
+         "text" : "Rescue System\nMatshiru\nLopez-Alegria Works",
+         "x" : 94.75,
+         "y" : -69.34375,
+         "z" : -104.0625
       }
-   ]
+    ]
 }
+
+ 94.75 / -69.34375 / -104.0625 
