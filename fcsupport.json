@@ -1,0 +1,46 @@
+{
+   "markers" : [
+      {
+         "pin" : "carriergreen",
+         "text" : "PDES Cloudbase\nPhill P\nCuchan\nMain Star",
+         "x" : 95.375,
+         "y" : -72.59375,
+         "z" : -84.125
+      },
+	  	  {
+         "pin" : "carriergreen",
+         "text" : "[32 SC]The Adamant Crow (J6J-09B)\nJackHarkness85\nCuchan\nMain Star",
+         "x" : 95.375,
+         "y" : -72.59375,
+         "z" : -84.125
+      },
+	  	  {
+         "pin" : "carriergreen",
+         "text" : "Puzzles Bar & Grill (K7F-N1Y)\nHalpy\nTrianguli Sector EQ-Y b5",
+         "x" : 95.375,
+         "y" : -72.59375,
+         "z" : -84.125
+      },
+	  	  {
+         "pin" : "carriergreen",
+         "text" : "TSCS Golden Age (H7K-G1J)\nBaknar (Terran Survey Corps)\nHyades Sector GW-W d1-88",
+         "x" : 95.375,
+         "y" : -72.59375,
+         "z" : -84.125
+      },
+	  	  {
+         "pin" : "carriergreen",
+         "text" : "PDES Nameless\nAzureAssaulter\nPhrygiang",
+         "x" : 95.375,
+         "y" : -72.59375,
+         "z" : -84.125
+      },
+	  {
+         "pin" : "orbis",
+         "text" : "Rescue Priority\nHIP 23716\nWakata Station",
+         "x" : -66.4375,
+         "y" : -144.40625,
+         "z" : -106.28125
+      }
+  ]
+}
