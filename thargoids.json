@@ -1,0 +1,39 @@
+{
+   "markers" : [
+      {
+         "pin" : "not",
+         "text" : "01 Taranis\nHyades Sector FB-N b7-6",
+         "x" : 88.4375,
+         "y" : -74.90625,
+         "z" : -122
+      },
+	  {
+		 "pin" : "not",
+         "text" : "02 Leigong\nHIP 8887",
+         "x" : -66.4375,
+         "y" : -144.40625,
+         "z" : -106.28125
+      },
+	  {
+         "pin" : "not",
+         "text" : "03 Indra\nHIP 20567",
+         "x" : -2.8125,
+         "y" : -63.8125,
+         "z" : -162.4375
+      },
+	  {
+         "pin" : "not",
+         "text" : "04 Oya\nCephei Sector BV-Y b4",
+         "x" : -97.8125,
+         "y" : 44.3125,
+         "z" : -83.84375
+      },
+	  {
+         "pin" : "not",
+         "text" : "05 Cocijo\nCol 285 Sector BA-P c6-18",
+         "x" : 157.28125,
+         "y" : 14.96875,
+         "z" : -103.875
+      }
+	 ]
+}
